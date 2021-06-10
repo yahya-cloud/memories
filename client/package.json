@@ -1,8 +1,8 @@
 {
   "name": "client",
+  "proxy": "http://127.0.0.1:5000",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://loaclhost:5000",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
